@@ -9,6 +9,7 @@ GsPack4_Scw4_write.py 用于写入为Scw4版本的脚本文件
 将原脚本文件放入SCR命名的文件夹，点击GsPack4_Scw4_extract.py，即可开始提取
 
 项目根目录/
+
 ├── GsPack4_Scw4_extract.py    # 提取工具
 
 ├── GsPack4_Scw4_write.py      # 写入工具
