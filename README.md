@@ -10,7 +10,11 @@ GsPack4_Scw4_write.py 用于写入为Scw4版本的脚本文件
 
 项目根目录/
 ├── GsPack4_Scw4_extract.py    # 提取工具
+
 ├── GsPack4_Scw4_write.py      # 写入工具
+
 ├── SCR/                      # 存放原始脚本
+
 ├── TXT/                      # (自动创建) 存放提取/修改的文本
+
 └── NEW_SCR/                  # (自动创建) 存放新生成的脚本
